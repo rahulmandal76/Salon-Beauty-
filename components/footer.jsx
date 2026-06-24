@@ -16,7 +16,7 @@ export default function Footer() {
                 <Scissors className="h-4 w-4" />
               </span>
               <span className="font-serif text-xl font-semibold tracking-tight text-foreground">
-                Maison Lumière
+                Vibe&Glow
               </span>
             </div>
             <p className="mt-4 max-w-sm text-pretty leading-relaxed text-muted-foreground">
@@ -34,27 +34,27 @@ export default function Footer() {
               className="flex items-center gap-3 text-sm text-muted-foreground transition-colors hover:text-foreground"
             >
               <MapPin className="h-4 w-4 text-accent" />
-              12 Rosewood Avenue, Bandra West, Mumbai
+              Karmatar, Jamtara, Jharkhand, 815352
             </a>
             <a
-              href="tel:+919876543210"
+              href="tel:+91XXXXXXXXXX"
               className="flex items-center gap-3 text-sm text-muted-foreground transition-colors hover:text-foreground"
             >
               <Phone className="h-4 w-4 text-accent" />
               +91 98765 43210
             </a>
             <a
-              href="mailto:hello@maisonlumiere.in"
+              href="mailto:hello@vibeandglow.com"
               className="flex items-center gap-3 text-sm text-muted-foreground transition-colors hover:text-foreground"
             >
               <Mail className="h-4 w-4 text-accent" />
-              hello@maisonlumiere.in
+              hello@vibeandglow.com
             </a>
           </div>
         </div>
 
         <div className="mt-12 border-t border-border pt-6 text-center text-xs text-muted-foreground">
-          © {new Date().getFullYear()} Maison Lumière. All rights reserved.
+          © {new Date().getFullYear()} Vibe&Glow. All rights reserved.
         </div>
       </div>
     </footer>

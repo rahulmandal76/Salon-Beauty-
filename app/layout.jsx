@@ -10,9 +10,9 @@ const playfair = Playfair_Display({
 })
 
 export const metadata = {
-  title: 'Maison Lumière — Salon & Beauty Academy',
+  title: 'Vibe&Glow',
   description:
-    'A premium salon and beauty academy. Book hair, beauty, cosmetology and bridal services with Maison Lumière.',
+    'A premium salon and beauty academy. Book hair, beauty, cosmetology and bridal services with Vibe&Glow.',
   generator: 'v0.app',
 }
 

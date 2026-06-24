@@ -15,7 +15,7 @@ export default function Hero() {
           </h1>
           <p className="mt-5 max-w-md text-pretty leading-relaxed text-muted-foreground">
             Premium hair, beauty and bridal experiences crafted by master
-            artists. Reserve your moment of indulgence at Maison Lumière.
+            artists. Reserve your moment of indulgence at Vibe&Glow.
           </p>
           <div className="mt-8 flex flex-wrap items-center gap-4">
             <a
@@ -44,7 +44,7 @@ export default function Hero() {
           <div className="overflow-hidden rounded-3xl border border-border">
             <img
               src="/images/salon-interior.png"
-              alt="Interior of the Maison Lumière salon"
+              alt="Interior of the Vibe&Glow salon"
               className="h-[360px] w-full object-cover md:h-[460px]"
             />
           </div>

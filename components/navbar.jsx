@@ -21,7 +21,7 @@ export default function Navbar() {
             <Scissors className="h-4 w-4" />
           </span>
           <span className="font-serif text-xl font-semibold tracking-tight text-foreground">
-            Maison Lumière
+            Vibe&Glow
           </span>
         </a>
 
